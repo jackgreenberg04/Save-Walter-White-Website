@@ -1,0 +1,61 @@
+body {
+  font-family: 'Comic Sans MS', Papyrus, cursive;
+  background: linear-gradient(#f9f9f9, #e0e0e0);
+  color: #222;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+header {
+  background: #f0c862;
+  padding: 20px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.3);
+}
+header.heisenberg {
+  background: #222;
+  color: #0f0;
+}
+.progress-container {
+  width: 80%;
+  background: #ddd;
+  margin: 10px auto;
+  border: 1px solid #aaa;
+}
+.progress-bar {
+  height: 20px;
+  background: #4caf50;
+  width: 0;
+}
+.heisenberg-mode {
+  background: #000;
+  color: #0f0;
+}
+.donation-board {
+  margin: 20px auto;
+  width: 80%;
+  text-align: left;
+  border: 1px dashed #444;
+  padding: 10px;
+}
+.donation-item {
+  margin: 5px 0;
+  animation: blink 1s step-end infinite alternate;
+}
+@keyframes blink {
+  from { opacity: 1; }
+  to { opacity: 0.5; }
+}
+button.donate {
+  font-size: 24px;
+  padding: 10px 30px;
+  margin: 20px;
+  cursor: pointer;
+}
+footer {
+  padding: 10px;
+  background: #f0c862;
+  margin-top: 20px;
+}
+footer.heisenberg {
+  background: #222;
+}
