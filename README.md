@@ -13,7 +13,4 @@ Open `src/index.html` in your browser to see the page. Press **Shift + H** to to
 - Heisenberg Mode (Shift + H) for a dark UI Easter egg
 - 100% client-side; no backend, just laughs
 
-## 🚀 Installation
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/save-walter-white.git
+![Image](https://github.com/user-attachments/assets/5d2cf050-ced9-4db6-940c-e59f36dd0d44)
