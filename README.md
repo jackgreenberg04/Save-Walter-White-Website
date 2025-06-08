@@ -1,9 +1,5 @@
 # Save Walter White Tribute
 
-A parody single-page website built with React and a retro 2008 vibe. Open `src/index.html` in your browser to see the page. Press **Shift+H** to toggle Heisenberg mode.
-
-![Breaking Bad Banner](https://upload.wikimedia.org/wikipedia/en/6/61/Breaking_Bad_title_card.png)
-
 A parody single-page website built with React and a retro 2008 vibe — inspired by Walter Jr.'s fundraising website in *Breaking Bad*.  
 This tribute project recreates the hilariously outdated look and feel of early internet charity sites, complete with fake donors, awkward fonts, and a tribute to the one who knocks.
 
